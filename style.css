@@ -53,14 +53,14 @@ p {
     color: #22c55e;
 }
 
-.header__container h3 a:hover::after {
+/*.header__container h3 a:hover::after {
     font-size: 14px;
     margin: 10px;
     color: white;
-    
+    background-color: black;*/
 
 
-}
+
 
 
 
